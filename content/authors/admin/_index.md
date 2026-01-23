@@ -51,5 +51,6 @@ Each job has specific context, so it makes sense to select the right tool for th
 * Azure (Tables, Blobs, Queues) - basic building blocks can do miracles
 * AWS (DynamoDB, S3, SQS) - made by developers, for developers
 * Infrastructure as Code (Bicep, AWS CDK, Github Actions, Azure DevOps) - it just must be code
+* Special expertise: IAM with OAuth 2.0 / OpenID Connect, CQRS
 
 Check out my [LinkedIn profile](https://www.linkedin.com/in/nkoudelia/), [drop me a line](mailto:nikolai.koudelia@bitfix.fi) and I will be happy to tell more!
